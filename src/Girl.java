@@ -37,6 +37,10 @@ public class Girl {
     public void shopping() {
         System.out.println("购物");
     }
+
+    public void sleep() {
+        System.out.println("休息");
+    }
 }
 
 
