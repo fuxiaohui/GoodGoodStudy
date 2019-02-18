@@ -41,6 +41,10 @@ public class Girl {
     public void sleep() {
         System.out.println("休息");
     }
+
+    public void playGame() {
+        System.out.println("玩游戏");
+    }
 }
 
 
