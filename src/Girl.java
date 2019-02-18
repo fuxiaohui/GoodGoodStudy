@@ -33,6 +33,10 @@ public class Girl {
                 ", age=" + age +
                 '}';
     }
+
+    public void shopping() {
+        System.out.println("购物");
+    }
 }
 
 
